@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gE+vZBXYWzw=",
+  "dgSpecHash": "INV9814ljNY=",
   "success": true,
-  "projectFilePath": "c:\\Users\\maria\\OneDrive\\Desktop\\_senai_diversos 2\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Desktop\\_senai_diversos 2\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maria\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\maria\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
