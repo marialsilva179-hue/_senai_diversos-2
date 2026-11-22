@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.exe
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.deps.json
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.runtimeconfig.json
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.pdb
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.sourcelink.json
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\refint\ConversorTemperatura.App.dll
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.pdb
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Desktop\_senai_diversos 2\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ref\ConversorTemperatura.App.dll
